@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>IEToolsChrome Appcast</title>
-        <description>Rebuild to try WinSparkle</description>
+        <description>IETools for Chrome</description>
         <language>en</language>
         <item>
-            <title>Version 8.0.13</title>
+            <title>Version 8.0.14</title>
             <sparkle:releaseNotesLink>
                 https://jlobello.github.io/ietools/relNotes.html
             </sparkle:releaseNotesLink>
-            <pubDate>Tue, 19 Mar 2019 08:52:00 +0100</pubDate>
+            <pubDate>Tue, 19 Mar 2019 09:01:00 +0100</pubDate>
             <enclosure url="https://jlobello.github.io/ietools/IEToolsChromeBootstrapper.exe"
-                       sparkle:dsaSignature="MEQCICYOD2UqXAJWkmzGMXanf6nGC+kJyNbLNu+Br7GrKbtUAiAo5zZXx/dE3z8BOKRlPKvt4iseDqBJRPndkPWThUJUcw=="
-                       sparkle:version="8.0.13"
+                       sparkle:dsaSignature="MEQCIH8vRmh//dv35Eo1Ie3+wzpD+G2E21VUF77uQEJMP7w8AiBhi9YHXlRyqyIWlp8RkFOwpVuQieV/qvkzhrVNcZOvhQ=="
+                       sparkle:version="8.0.14"
                        length="0"
                        type="application/octet-stream" />
         </item>
