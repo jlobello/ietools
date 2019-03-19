@@ -5,14 +5,14 @@
         <description>Rebuild to try WinSparkle</description>
         <language>en</language>
         <item>
-            <title>Version 8.0.12</title>
+            <title>Version 8.0.13</title>
             <sparkle:releaseNotesLink>
                 https://jlobello.github.io/ietools/relNotes.html
             </sparkle:releaseNotesLink>
-            <pubDate>Tue, 19 Mar 2019 08:49:00 +0100</pubDate>
+            <pubDate>Tue, 19 Mar 2019 08:52:00 +0100</pubDate>
             <enclosure url="https://jlobello.github.io/ietools/IEToolsChromeBootstrapper.exe"
-                       sparkle:dsaSignature="MEQCIAtrllUJL1kZk/x9qFbuzIKA0d7eC8fay/Ieg05JXmDAAiBqXpsqaryfJiTIb5f+JHwUNXweXHD63H0Ocbz8lRaEGw=="
-                       sparkle:version="8.0.12"
+                       sparkle:dsaSignature="MEQCICYOD2UqXAJWkmzGMXanf6nGC+kJyNbLNu+Br7GrKbtUAiAo5zZXx/dE3z8BOKRlPKvt4iseDqBJRPndkPWThUJUcw=="
+                       sparkle:version="8.0.13"
                        length="0"
                        type="application/octet-stream" />
         </item>
