@@ -11,9 +11,8 @@
             </sparkle:releaseNotesLink>
             <pubDate>Tue, 20 Mar 2019 09:11:00 +0100</pubDate>
             <enclosure url="https://jlobello.github.io/ietools/IEToolsChromeBootstrapper.exe"
-			           sparkle:installerArguments=""
+			           sparkle:installerArguments="/passive"
                        sparkle:dsaSignature="MEUCIQDNIV7HGP7st3SlgiI4Nvf6Cd04N0c3SV/sLofRjgu6wQIgTRb0he6BqLRP84Et+ec9tR/e7E8jzB8oBAdDp7GuYLI="
-					   sparkle:installerArguments="/passive"
                        sparkle:version="8.0.21"
                        length="0"
                        type="application/octet-stream" />
