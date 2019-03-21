@@ -5,15 +5,15 @@
         <description>IETools for Chrome</description>
         <language>en</language>
         <item>
-            <title>Version 8.0.23</title>
+            <title>Version 8.0.24</title>
             <sparkle:releaseNotesLink>
                 https://jlobello.github.io/ietools/relNotes.html
             </sparkle:releaseNotesLink>
             <pubDate>Tue, 20 Mar 2019 09:11:00 +0100</pubDate>
             <enclosure url="https://jlobello.github.io/ietools/IEToolsChromeBootstrapper.exe"
 			           sparkle:installerArguments="/passive"
-                       sparkle:dsaSignature="MEQCIE2eUQolQvPaF5FqaH7esKeupJcrj3YcoDHu6Huv/efRAiAJaL6aoHOBGcC00QUqZI/9Cwyoqd3GRozubq3YDztQeg=="
-                       sparkle:version="8.0.23"
+                       sparkle:dsaSignature="MEQCIAlApPa6dArO7SrCd/iOme8ZLjoZ3bhbOAPE68PGvJ94AiB156awAPphIY6qKdiSZijEpgTNbl7jA6TKjfZgCqvy4Q=="
+                       sparkle:version="8.0.24"
                        length="0"
                        type="application/octet-stream" />
         </item>
