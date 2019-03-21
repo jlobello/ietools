@@ -1,19 +1,31 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>IEToolsChrome install info</title>
+<title>Congratulations! You have successfully installed IEToolsChrome 'helper' on your PC.</title>
 </head>
 <body>
-  After installing "IEToolsChrome", you also need to install our Google Chrome Extension from the Chrome Webstore.  Until it's published, use the steps below...
-  
+  <p>Congratulations! You have successfully installed IEToolsChrome 'helper' on your PC.  Now, you need to load the extension into Google Chrome. Eventually our extension will be published in the Chrome Webstore & when that happens, we'll providew a link to install it from this page.  Until that happens, please use the steps below...</p>
+    
   <ol>  
   <li>Launch Google Chrome.</li>
-  <li>Navigate to chrome://extensions/.  Click the radio button to enable "Developer mode" (which enables side-loading).</li>
-  <li>Click on the button "Load unpacked".   Naavigate to NativeMessaging\Extension and click on "Select Folder".</li>
-  <li>After the extension is loaded, you'll see "Cerner Tools" on the extension page & also an icon will appear in the Chrome header.</li>
+  <li>Navigate to chrome://extensions/.</li> 
+  <li>Move the toggle button, "Developer mode", to the right to enable devloper mode.<br>
+     <img src="./images/step1.png" alt="Move the toggle button, 'Developer mode', to the right" style="width: 900px; height: 100%;">
+  </li>
+  <li>Click on the button, "Load unpacked".<br>
+      <img src="./images/step2.png" alt="Click on the button, 'Load unpacked'" style="width: 900px; height: 100%;">
+  </li>
+  <li>In the dialog, navigate to your install directory: "C:\Program Files\Cerner\IEToolsChrome" & highlight the folder, Extension, then click on "Select Folder".<br>
+       <img src="./images/step3.png" alt="In the dialog, navigate to your install directory" style="width: 900px; height: 100%;">
+ </li>
   </ol>
   
-  <p>You can hide the icon in the Chrome header if you want.  You can ignore the error: Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.</p>
-  <p>Every time you start Chrome, you'll be warned about side loaded extensoins.</p>
+  <p>After the extension is loaded, you will see "Cerner Tools" listed on the extension page, an icon will appear in the Chrome header, and a <b>background processes will be kicked off called, "IEToolsChrome.exe"</b>. You can hide the icon in the Chrome header if you want by right-clicking on it. Until our extension is published in the Chrome store, you'll receive a warning every time you start Chrome.</p><br>
+  <img src="./images/chromeWarning.png" alt="Chrome Warning" style="width: 900px; height: 100%;">
+  
+  <p>You can safely ignore the error: Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.  This message may appear in the extension log</p><br>
+  <img src="./images/errorToIgnore.png" alt="Chrome Warning" style="width: 900px; height: 100%;">
+  
+
 </body>
 </html>
