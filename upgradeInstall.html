@@ -3,8 +3,16 @@
 <head>
 <title>IEToolsChrome: How To Upgrade The Chrome Extension </title>
 <link rel="stylesheet" href="./assets/css/style.css?v=4039b4dd6413ff2e2fba57cf069b1b0a09112bf3">
+<script>
+var script = document.createElement('script');
+script.onload = function() {
+  fixLink();
+};
+script.src = "link.js?v=" + Math.floor((Math.random() * 1000000) + 1)
+document.getElementsByTagName('head')[0].appendChild(script);
+</script>
 </head>
-<body>
+<body onload="">
 <div class="wrapper">
     <header>
     </header>
@@ -16,7 +24,7 @@
 
         <article class="markdown-body">
   <h1>How To Upgrade The IETools Chrome Extension</h1>
-  <p>There is an autoupdate checker built into IEToolsChrome, which you can enable or disable during the install. If you are using it, a secondary window will appear on your desktop while running Chrome, to notify you of an update, which you can then proceed to download & install without stopping Chrome. If you're not using it, you can <a href="IEToolsChromeBootstrapper-4.3.200.784-20190412.175100-1.exe">manually download the update, here.</a>  Also, you'll have to restart Chrome.</p>
+  <p>There is an autoupdate checker built into IEToolsChrome, which you can enable or disable during the install. If you are using it, a secondary window will appear on your desktop while running Chrome, to notify you of an update, which you can then proceed to download & install without stopping Chrome. If you're not using it, you can <a id="mylink" href="">manually download the update, here.</a>  Also, you'll have to restart Chrome.</p>
   <br>
   <img src="./images/autoupdate.png" alt="Autoupdate dialog" style="width: 900px; height: 100%;">
   <br>
