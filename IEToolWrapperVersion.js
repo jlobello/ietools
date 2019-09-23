@@ -1,4 +1,0 @@
-export default {
-    "hash":  "B6EDB71BD6DC43F70B855D1B2A812F5D9CABCC76F3D0E7028782A37D3F2F2C39",
-    "version":  "5.0.0.0"
-};
